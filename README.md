@@ -26,20 +26,6 @@ sudo chmod +X post.cgi
 
 默认端口号是6379，默认是test.html界面，同一路径下还有 post.html资源
 
-#### 3、整体过程图
-
-![](./image/2.png)
-
-![](./image/3.png)
-
-![](./image/4.png)
-
-![](./image/5.png)
-
-#### 4、整体框架图
-
-![](./image/myhttp.png)
-
 #### 5、参考
 
 非常感谢
